@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/1401-principles-of-microeconomics/mit14_01_f23.jpg
+file: /ol-ocw-studio-app/courses/14-01-principles-of-microeconomics-fall-2023/mit14_01_f23.jpg
 file_size: 290048
 file_type: image/jpeg
 image_metadata:
