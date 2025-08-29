@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/1401-principles-of-microeconomics/mit14_01_f23_handout2.pdf
+file: /ol-ocw-studio-app/courses/14-01-principles-of-microeconomics-fall-2023/mit14_01_f23_handout2.pdf
 file_size: 799599
 file_type: application/pdf
 image_metadata:

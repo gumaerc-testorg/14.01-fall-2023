@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/1401-principles-of-microeconomics/1401-lecture05-2023sep20-v2_captions.vtt
+file: /ol-ocw-studio-app/courses/14-01-principles-of-microeconomics-fall-2023/1401-lecture05-2023sep20-v2_captions.vtt
 file_size: 98640
 file_type: text/vtt
 image_metadata:
