@@ -8,10 +8,10 @@ file_type: image/jpeg
 image_metadata:
   caption: 'An Opel car assembly line in Poland. The car industry is an oligopoly,
     where a small number of companies have significant control of the market. Oligopolies
-    are discussed in lecture 13. (Image by [Marek Slusarczyk](https://en.wikipedia.org/wiki/Automotive_industry#/media/File:002_Production_line_-_car_assembly_line_in_General_Motors_Manufacturing_Poland_-_Gliwice,_Poland.jpg)
-    on Wikimedia Commons. License: CC BY)'
-  credit: 'Image by [Marek Slusarczyk](https://en.wikipedia.org/wiki/Automotive_industry#/media/File:002_Production_line_-_car_assembly_line_in_General_Motors_Manufacturing_Poland_-_Gliwice,_Poland.jpg)
-    on Wikimedia Commons. License: CC BY'
+    are discussed in lecture 13. (Image by {{% resource_link "3a4142ff-7ff2-4e75-bf73-45f44c7bbb76"
+    "Marek Slusarczyk" %}} on Wikimedia Commons. License: CC BY)'
+  credit: 'Image by {{% resource_link "3a4142ff-7ff2-4e75-bf73-45f44c7bbb76" "Marek
+    Slusarczyk" %}} on Wikimedia Commons. License: CC BY'
   image-alt: A row of cars on the assembly line, showcasing the manufacturing process
     in an automotive factory setting.
 learning_resource_types: []

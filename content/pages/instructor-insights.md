@@ -15,14 +15,14 @@ Professor Jonathan Gruber wants to train students to think like economists. Econ
 
 ### Prerequisites
 
-None, although some calculus at the level of [*18.01 Single Variable Calculus*](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010) is used in the course.
+None, although some calculus at the level of {{% resource_link "ced5a06c-5d3c-466c-ab5c-26201941c158" "*18.01 Single Variable Calculus*" %}} is used in the course.
 
 ### Requirements Satisfied
 
-- [General Institute Requirement (GIR)](https://firstyear.mit.edu/academics-exploration/general-institute-requirements-girs/) ![](https://ocw.mit.edu/images/educator/icon-question-gir.png)
-- [Humanities, Arts, and Social Sciences (HASS)](https://firstyear.mit.edu/academics-exploration/general-institute-requirements-girs/humanities-arts-and-social-sciences-hass-requirement/) ![](https://ocw.mit.edu/images/educator/icon-question-hass.png)
-- [Economics bachelor’s degree requirement](https://economics.mit.edu/under/majors/14-1)
-- [Planning bachelor’s degree requirement](http://catalog.mit.edu/degree-charts/planning-course-11/)
+- {{% resource_link "e769dc4d-0f50-46c7-a943-3a82bdbd4b79" "General Institute Requirement (GIR)" %}} ![](https://ocw.mit.edu/images/educator/icon-question-gir.png)
+- {{% resource_link "33d2b5ae-f862-4bd8-bb7c-3e975eeb495d" "Humanities, Arts, and Social Sciences (HASS)" %}} ![](https://ocw.mit.edu/images/educator/icon-question-hass.png)
+- {{% resource_link "d78ebedf-c448-468e-a02d-22b6201cbc61" "Economics bachelor’s degree requirement" %}}
+- {{% resource_link "be6af20f-f7bf-4e86-9fc6-e5abacced3ca" "Planning bachelor’s degree requirement" %}}
 
 ### Offered
 
