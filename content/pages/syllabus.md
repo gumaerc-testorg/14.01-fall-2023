@@ -14,11 +14,11 @@ Recitations: 1 session/week; 1 hour/session
 
 ## Prerequisites 
 
-Some calculus at the level of [*18.01 Single Variable Calculus*](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) will be used. Otherwise there are no prerequisites. 
+Some calculus at the level of {{% resource_link "5a5e9ff7-18d2-4d60-be0b-ebbd17460259" "*18.01 Single Variable Calculus*" %}} will be used. Otherwise there are no prerequisites. 
 
 ## Textbook 
 
-There is no formal textbook for the course, but students can access Prof. Gruber's free [online introductory microeconomics class](https://mitxonline.mit.edu/courses/course-v1:MITxT+14.01x/) from MITx Online. This is a simpler version of the same material. This open online course is available for free, but students must sign up to enroll. 
+There is no formal textbook for the course, but students can access Prof. Gruber's free {{% resource_link "df72e74e-e2b4-4d15-9c5d-ff4450f7f634" "online introductory microeconomics class" %}} from MITx Online. This is a simpler version of the same material. This open online course is available for free, but students must sign up to enroll. 
 
 If students are interested in further reading, the following book is recommended: Perloff, Jeffrey M. *Microeconomics, 7th Edition.* Addison-Wesley, 2012. ISBN: 9780321160737.
 
@@ -46,11 +46,11 @@ Students are encouraged to seek help from the faculty, who will hold regular off
 
 ## Exam Conflicts, Illness, and Makeups
 
-Students with exam conflicts must give written notice to the head Teaching Assistant (TA) at least two weeks in advance. A student who happens to be ill on the day of the exam should contact one of the consulting deans in [Student Support Services](https://studentlife.mit.edu/s3), who will determine whether the student has a valid excuse and then inform the head TA. The head TA will schedule a makeup exam, to be given on a fixed date and time, for students with a valid excuse due to a conflict or illness.
+Students with exam conflicts must give written notice to the head Teaching Assistant (TA) at least two weeks in advance. A student who happens to be ill on the day of the exam should contact one of the consulting deans in {{% resource_link "e004fddd-eb54-4dfa-8536-b261ccdf7178" "Student Support Services" %}}, who will determine whether the student has a valid excuse and then inform the head TA. The head TA will schedule a makeup exam, to be given on a fixed date and time, for students with a valid excuse due to a conflict or illness.
 
 ## Students with Disabilities
 
-We will make every reasonable accommodation for any student with any physical or mental disability. A student who needs special accommodations for an exam should present to the head TA—at least two weeks in advance of the scheduled exam—a letter from [MIT's Student Disability Services](https://studentlife.mit.edu/das) certifying the student's disability and requesting specific accommodations. The contents of the letter will be treated confidentially.
+We will make every reasonable accommodation for any student with any physical or mental disability. A student who needs special accommodations for an exam should present to the head TA—at least two weeks in advance of the scheduled exam—a letter from {{% resource_link "277d70f1-ed6e-4520-8e54-aafc9142ee39" "MIT's Student Disability Services" %}} certifying the student's disability and requesting specific accommodations. The contents of the letter will be treated confidentially.
 
 ## Individual versus Joint Work
 
@@ -58,4 +58,4 @@ All assignments, including homework and exams, will be submitted and graded indi
 
 ## Academic Honesty
 
-When we suspect that a student has engaged in academic dishonesty, we will follow the procedures described in the latest [MIT guidelines on Academic Misconduct and Dishonesty](https://studentlife.mit.edu/osc/faculty/academic-misconduct).
+When we suspect that a student has engaged in academic dishonesty, we will follow the procedures described in the latest {{% resource_link "c4c82348-f1b4-4ff0-9979-fcaa47d735ae" "MIT guidelines on Academic Misconduct and Dishonesty" %}}.
